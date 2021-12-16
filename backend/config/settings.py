@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'sigma',
     'rest_framework',
+    'import_export',
 ]
 
 MIDDLEWARE = [

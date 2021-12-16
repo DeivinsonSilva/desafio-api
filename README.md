@@ -35,3 +35,6 @@ Projeto do desafio da Sigma Consultoria, um dos requisitos para concorrer a uma 
 <b>8º iniciar o servidor</b>
 <br>npm run serve
 </p>
+
+# No Scraping
+Para popular o Sqlite3 foi utilizado o método scraping.webscraping, que se encontra comentado.
