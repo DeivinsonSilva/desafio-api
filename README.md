@@ -14,7 +14,7 @@ Projeto do desafio da Sigma Consultoria, um dos requisitos para concorrer a uma 
 <b>4º Instale as dependências</b>
 <br>pip install -r requirements.txt
 
-<b>Para rodar o servidor</b>
+<b>5º Inicie o servidor</b>
 <br>python manage.py runserver
 
 <b>Acesso à página de admin do Django</b>
