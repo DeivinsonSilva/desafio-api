@@ -18,7 +18,7 @@ Projeto do desafio da Sigma Consultoria, um dos requisitos para concorrer a uma 
 <br>python manage.py runserver
 
 <b>Acesso à página de admin do Django</b>
-<b>E-mail: sigma@sigma.com</b>
+<br>E-mail: sigma@sigma.com
 <br>Usuário: usersigma
 <br>Senha: usersigma
 </p>
