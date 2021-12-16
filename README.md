@@ -26,12 +26,12 @@ Projeto do desafio da Sigma Consultoria, um dos requisitos para concorrer a uma 
 
 # No Front-end
 <p>
-<b>Project setup</b>
+<b>6º Project setup</b>
 <br>npm install
 
-<b>Intall Vue Axios</b>
+<b>7º Intall Vue Axios</b>
 <br>npm install axios
 
-<b>iniciar o servidor</b>
+<b>8º iniciar o servidor</b>
 <br>npm run serve
 </p>
